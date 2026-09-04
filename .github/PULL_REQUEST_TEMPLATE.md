@@ -1,4 +1,3 @@
-PULL_REQUEST_TEMPLATE.md
 
 ## 🔘 주제
 - [ ] 알고리즘
@@ -9,7 +8,7 @@ PULL_REQUEST_TEMPLATE.md
 
 ## 🔎 변경 사항에 대한 설명
 - 이 작업에서 무엇이 변경되었는지 상세히 설명해주세요.
-
+gitt
 <br/>
 
 ## ➕ 관련된 링크
